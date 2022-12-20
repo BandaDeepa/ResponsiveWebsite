@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-img {
+    height: 35px;
+    width: 120px;
+}
+
+.nav-bg-color {
+    background-color: #0C0521;
+}
+
+.nav-button {
+    background-color: white;
+}
+
+.nav-collaps-items {
+    color: #ffffff !important;
+    font-size: 15px !important;
+    font-family: "Roboto" !important;
+}
+
+.background-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.banner-description {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Roboto";
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.banner-button {
+    height: 44px;
+    width: 160px;
+    background-color: #FFDDA9;
+    border-width: 0px;
+    border-radius: 20px;
+    color: #0C0521;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.logos-bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+    text-align: center;
+}
+
+.logo-page-heading {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.DD-page-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.DD-page-imag {
+    width: 200px;
+    height: 220px;
+    margin-bottom: 20px;
+}
+
+.DD-page-description {
+    color: #7b8794;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.tools-bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.Tools-heading {
+    color: #323f4b;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Tools-description {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.feature-page-heading {
+    color: #323f4b;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.feature-page-description {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.tools-img {
+    height: 75px;
+    width: 85px;
+}
+
+.tool-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.tool-descrip {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-family: "Roboto";
+}
